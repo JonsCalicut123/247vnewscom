@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+247VNews - Cập Nhật Nhà Cái Uy Tín, Khuyến Mãi & Tin Tức Cá Cược
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`247VNews <https://247vnews.com/>`_ là một nền tảng tin tức trực tuyến chuyên cung cấp thông tin về các nhà cái uy tín, bao gồm khuyến mãi, bóng đá, game online, và xổ số lô đề. Tại 247VNews, người chơi có thể tìm hiểu về những nhà cái hàng đầu và các dịch vụ mà họ cung cấp, từ các trò chơi đến tin tức cập nhật liên tục. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Với mục tiêu mang lại trải nghiệm tốt nhất cho người dùng, 247VNews cũng cho phép đăng ký nhận thông tin khuyến mãi qua email, giúp người chơi luôn cập nhật với những ưu đãi hấp dẫn nhất từ các nhà cái. Hãy khám phá thế giới cá cược đầy thú vị cùng 247VNews!
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 17/3 Hẻm 449 Trường Chinh, Phường 14, Tân Bình, Hồ Chí Minh, Vietnam. 
 
-Contents
---------
+Phone: 0772658511. 
 
-.. toctree::
+Email: info@247vnews.com. 
 
-   usage
-   api
+Website: https://247vnews.com/ 
+
+#247vnews #trangchu247vnews #dangky247vnews #dangnhap247vnews #link247vnews
